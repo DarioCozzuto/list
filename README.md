@@ -1,0 +1,1 @@
+# type-of-collection-data-PYTHON
